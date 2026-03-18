@@ -1,1 +1,1 @@
-Console.WriteLine("galaz main"); 
+Console.WriteLine("Polaczenie dwoch galezi!");
