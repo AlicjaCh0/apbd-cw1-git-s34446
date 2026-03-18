@@ -20,6 +20,8 @@ Rebase tutaj historia jest przepisywana i wygl¹da jak jedna prosta linia poniewa
 3. W jaki sposób zosta³ rozwi¹zany konflikt w Twoim repozytorium?
 
 Najpierw zmodyfikowa³am t¹ sam¹ liniê kodu w Program.cs. Po otworzeniu pliku zamieni³am 
+
+```csharp
 <<<<<<< HEAD
 Console.WriteLine("Wersja main");
 =======
