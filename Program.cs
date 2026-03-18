@@ -1,3 +1,4 @@
 "// APBD" 
 int[] tab1 = {2,1,3}; 
 // Koniec programu 
+Console.WriteLine("nowa wersja"); 
